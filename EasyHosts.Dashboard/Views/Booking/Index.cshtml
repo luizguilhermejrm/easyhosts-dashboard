@@ -1,0 +1,120 @@
+﻿@model IEnumerable<EasyHosts.Dashboard.Models.Booking>
+@using EasyHosts.Dashboard.Models.Enums;
+
+@{
+    ViewBag.Title = "Reserva";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card mb-3">
+    <div class="bg-holder d-none d-lg-block bg-card" style="background-image:url(../../Content/Images/icons/spot-illustrations/corner-1.png);">
+    </div>
+
+    <div class="card-body position-relative">
+        <div class="row">
+            <div class="col-lg-8">
+                <h3>Registro de Reservas</h3>
+                <p class="mb-0">Visualização dos registros.</p>
+            </div>
+        </div>
+    </div>
+</div><div class="row g-3 mb-3">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header border-bottom">
+                <div class="d-flex justify-content-between">
+                    <div class="align-self-center">
+                        <h5 class="mb-0">Tabela</h5>
+                    </div>
+                    <div class="align-self-center">
+                        <div>
+                            <button type="submit" onclick="window.open('/Booking/ExportExcel');" class="btn btn-falcon-success btn-sm">Exportar Excel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @if (Model.Count() == 0)
+            {
+                <div class="text-center py-5">
+                    <p class="fs-5 fw-light">No momento não há registros no sistema!</p>
+                    <span>Atualizado em: <strong>@DateTime.Now.ToString()</strong></span>
+                </div>
+            }
+            else
+            {
+                <div class="card-body pt-0">
+                    <div class="tab-content">
+                        <div class="table-responsive scrollbar">
+                            <table id="example" class="table table-striped" style="width:100%">
+                                <tr>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.CodeBooking)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.UserId)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.DateCheckin)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.DateCheckout)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.ValueBooking)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Status)
+                                    </th>
+                                    <th class="pe-5">Ações</th>
+                                </tr>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.CodeBooking)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.User.Name)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.DateCheckin)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.DateCheckout)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.ValueBooking)
+                                        </td>
+                                        <td>
+                                            @if (item.Status == BookingStatus.Voucher)
+                                            {
+                                                <span id="status_@item.Id" class="text-info" style="font-weight:bold">Voucher</span>
+                                            }
+                                            else if (item.Status == BookingStatus.Checkin)
+                                            {
+                                                <span id="status_@item.Id" class="text-success" style="font-weight:bold">Checkin</span>
+                                            }
+                                            else if (item.Status == BookingStatus.Checkout)
+                                            {
+                                                <span id="status_@item.Id" class="text-danger" style="font-weight:bold">Checkout</span>
+                                            }
+                                            else if (item.Status == BookingStatus.NoShow)
+                                            {
+                                                <span id="status_@item.Id" class="text-warning" style="font-weight:bold">No Show</span>
+                                            }
+                                        </td>
+                                        <td>
+                                            <a data-bs-toggle="tooltip" data-bs-placement="left" title="Editar" href="@Url.Action("Edit", "Booking", new { id = item.Id })"><i class="text-500 fas fa-edit"></i></a>
+                                            <a data-bs-toggle="tooltip" data-bs-placement="top" title="Detalhes" href="@Url.Action("Details", "Booking", new { id = item.Id })"><i class="ms-2 text-500 fas fa-info"></i></a>
+                                            <a data-bs-toggle="tooltip" data-bs-placement="right" title="Deletar" href="@Url.Action("Delete", "Booking", new { id = item.Id })"><i class="ms-2 text-500 fas fa-trash-alt"></i></a>
+                                        </td>
+                                    </tr>
+                                }
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

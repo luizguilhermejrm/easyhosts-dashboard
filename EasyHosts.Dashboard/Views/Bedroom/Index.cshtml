@@ -1,0 +1,109 @@
+﻿@model IEnumerable<EasyHosts.Dashboard.Models.Bedroom>
+
+@{
+    ViewBag.Title = "Quartos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card mb-3">
+    <div class="bg-holder d-none d-lg-block bg-card" style="background-image:url(../../Content/Images/icons/spot-illustrations/corner-1.png);">
+    </div>
+
+    <div class="card-body position-relative">
+        <div class="row">
+            <div class="col-lg-8">
+                <h3>Registro de Quartos</h3>
+                <p class="mb-0">Visualização dos registros.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-3 mb-3">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header border-bottom">
+                <div class="d-flex justify-content-between">
+                    <div class="align-self-center">
+                        <h5 class="mb-0">Tabela</h5>
+                    </div>
+                    <div class="align-self-center">
+                        <div>
+                            @Html.ActionLink("Novo", "Create", "", new { @class = "btn btn-falcon-warning btn-sm" })
+                            <button type="submit" onclick="window.open('/Bedroom/ExportExcel');" class="btn btn-falcon-success btn-sm">Exportar Excel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @if (Model.Count() == 0)
+            {
+                <div class="text-center py-5">
+                    <p class="fs-5 fw-light">No momento não há registros no sistema!</p>
+                    <span>Atualizado em: <strong>@DateTime.Now.ToString()</strong></span>
+                </div>
+            }
+            else
+            {
+                <div class="card-body pt-0">
+                    <div class="tab-content">
+                        <div class="table-responsive scrollbar">
+                            <table id="example" class="table table-striped align-middle">
+                                <tr>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.NameBedroom)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.TypeBedroom.ApartmentAmenities)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Value)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Picture)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Description)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Status)
+                                    </th>
+                                    <th class="pe-4">Ações</th>
+                                </tr>
+
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.NameBedroom)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.TypeBedroom.ApartmentAmenities)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Value)
+                                        </td>
+                                        <td>
+                                            <img class="card-img" style="max-width:70px;" src="@Url.Action("GetImage","Bedroom", new { id = item.Id })" alt="imagem do quarto" />
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Description)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Status)
+                                        </td>
+                                        <td>
+                                            <a data-bs-toggle="tooltip" data-bs-placement="left" title="Editar" href="@Url.Action("Edit", "Bedroom", new { id = item.Id })"><i class="text-500 fas fa-edit"></i></a>
+                                            <a data-bs-toggle="tooltip" data-bs-placement="top" title="Detalhes" href="@Url.Action("Details", "Bedroom", new { id = item.Id })"><i class="ms-1 text-500 fas fa-info"></i></a>
+                                            <a data-bs-toggle="tooltip" data-bs-placement="right" title="Deletar" href="@Url.Action("Delete", "Bedroom", new { id = item.Id })"><i class="ms-1 text-500 fas fa-trash-alt"></i></a>
+                                        </td>
+                                    </tr>
+                                }
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+    </div>
+</div>
+

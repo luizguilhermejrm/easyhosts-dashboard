@@ -1,0 +1,88 @@
+﻿@model EasyHosts.Dashboard.Models.Bedroom
+
+@{
+    ViewBag.Title = "Detalhes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card mb-3">
+    <div class="bg-holder d-none d-lg-block bg-card" style="background-image: url(../../Content/Images/icons/spot-illustrations/corner-1.png);">
+    </div>
+
+    <div class="card-body position-relative">
+        <div class="row">
+            <div class="col-lg-8">
+                <h3>Detalhes do Quarto</h3>
+                <p class="mb-0">Visualização dos detalhes.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card mb-3">
+    <div class="card-header">
+        <div class="row flex-between-end">
+            <div class="col-auto align-self-center">
+                <h5 class="mb-0">Informações</h5>
+            </div>
+        </div>
+    </div>
+    <div class="card-body bg-light">
+        <div class="tab-content">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.TypeBedroom.ApartmentAmenities)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.TypeBedroom.ApartmentAmenities)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.NameBedroom)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.NameBedroom)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Value)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Value)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Picture)
+                </dt>
+
+                <dd>
+                    <img class="card-img" style="max-width:70px;" src="@Url.Action("GetImage","Bedroom", new { id = item.Id })" alt="imagem do quarto" />
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Description)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Status)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Status)
+                </dd>
+
+            </dl>
+            <div>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.Id }, new { @class = "btn btn-warning" })
+                @Html.ActionLink("Voltar", "Index", "", new { @class = "btn btn-secondary" })
+            </div>
+        </div>
+    </div>
+</div>

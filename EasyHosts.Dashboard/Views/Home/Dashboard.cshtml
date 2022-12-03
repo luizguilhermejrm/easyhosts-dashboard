@@ -1,0 +1,80 @@
+﻿@model EasyHosts.Dashboard.ViewModel.DashboardVm
+
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="d-flex mb-4 mt-3">
+    <span class="fa-stack me-2 ms-n1"><i class="fas fa-circle fa-stack-2x text-300"></i><i class="fa-inverse fa-stack-1x text-dark fas fa-percentage"></i></span>
+    <div class="col">
+        <h5 class="mb-0 text-dark position-relative"><span class="bg-200 dark__bg-1100 pe-3">Dashboard</span><span class="border position-absolute top-50 translate-middle-y w-100 start-0 z-index--1"></span></h5>
+        <p class="mb-0">Visão geral dos dados e relatórios do estabelecimento.</p>
+    </div>
+</div>
+
+<div class="row g-3 mb-3">
+    <div class="col-md-3">
+        <div class="card overflow-hidden" style="min-width: 12rem">
+            <div class="bg-holder bg-card" style="background-image: url(../../Content/Images/icons/spot-illustrations/corner-1.png); ">
+            </div>
+
+            <div class="card-body position-relative">
+                <h6>Produtos</h6>
+                <div class="display-4 fs-4 mb-2 fw-normal font-sans-serif" data-countup='{"endValue": @Model.Product.Count(),"decimalPlaces":0,"suffix":""}'>0</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card overflow-hidden" style="min-width: 12rem">
+            <div class="bg-holder bg-card" style="background-image: url(../../Content/Images/icons/spot-illustrations/corner-1.png); ">
+            </div>
+
+            <div class="card-body position-relative">
+                <h6>Usuários</h6>
+                <div class="display-4 fs-4 mb-2 fw-normal font-sans-serif" data-countup='{"endValue": @Model.User.Count(),"decimalPlaces":0,"suffix":""}'>0</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card overflow-hidden" style="min-width: 12rem">
+            <div class="bg-holder bg-card" style="background-image: url(../../Content/Images/icons/spot-illustrations/corner-1.png); ">
+            </div>
+
+            <div class="card-body position-relative">
+                <h6>Quartos</h6>
+                <div class="display-4 fs-4 mb-2 fw-normal font-sans-serif" data-countup='{"endValue": @Model.Bedroom.Count(),"decimalPlaces":0,"suffix":""}'>0</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card overflow-hidden" style="min-width: 12rem">
+            <div class="bg-holder bg-card" style="background-image: url(../../Content/Images/icons/spot-illustrations/corner-1.png); ">
+            </div>
+
+            <div class="card-body position-relative">
+                <h6>Eventos</h6>
+                <div class="display-4 fs-4 mb-2 fw-normal font-sans-serif" data-countdown="12" data-countup='{"endValue": @Model.Event.Count(),"decimalPlaces":0,"suffix":""}'>0</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-3 mb-3">
+    <div class="col-md-6">
+        <div class="card overflow-auto" style="height: 30rem ">
+            <div class="card-header">Quantidade de cada tipo de quarto cadastrado</div>
+            <div class="grafico">
+                @Html.Raw(ViewBag.GraficoPizza)
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card overflow-auto" style="height: 30rem ">
+            <div class="card-header">Quantidade de reservas por mês</div>
+            <div class="grafico my-auto p-3">
+                @Html.Raw(ViewBag.GraficoColuna)
+            </div>
+        </div>
+    </div>
+</div>

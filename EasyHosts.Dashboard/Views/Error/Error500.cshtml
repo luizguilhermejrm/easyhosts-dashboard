@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Erro 500";
+    Layout = "~/Views/Shared/_LayoutInitial.cshtml";
+}
+
+<main class="main" id="top">
+    <div class="container" data-layout="container">
+        <div class="row flex-center min-vh-100 py-6 text-center">
+            <div class="col-sm-10 col-md-8 col-lg-6 col-xxl-5">
+                <a class="d-flex flex-center mb-4 text-decoration-none" href="#">
+                <span class="font-sans-serif fw-light fs-5 d-inline-block text-dark">Easy Hosts</span>
+            </a>
+            <div class="card">
+                <div class="card-body p-4 p-sm-5">
+                    <div class="fw-black lh-1 text-300 fs-error">500</div>
+                    <p class="lead mt-4 text-800 font-sans-serif fw-semi-bold w-md-75 w-xl-100 mx-auto">Requisição não completada ou parâmetros não encontrados.</p>
+                    <hr />
+                    <p>Volte para página inicial.</p>
+                    @Html.ActionLink("Voltar", "Dashboard", "Home", new { area = "" }, new { @class = "btn btn-secondary" })
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</main>

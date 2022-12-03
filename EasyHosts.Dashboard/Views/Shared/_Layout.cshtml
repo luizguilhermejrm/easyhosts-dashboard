@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Easy Hosts</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../Content/Images/favicons/favicon.ico">
+
+    @Scripts.Render("~/Config/script")
+    @Scripts.Render("~/Overlayscrollbars/script")
+    @Styles.Render("~/Content/Overlayscrollbars")
+    @Styles.Render("~/Content/Css")
+
+</head>
+<body>
+
+    @* Main Content *@
+    <main class="main" id="top">
+        <div class="container-fluid">
+            <nav class="navbar navbar-light navbar-vertical navbar-expand-xl navbar-card">
+                <div class="d-flex align-items-center">
+                    <div class="toggle-icon-wrapper">
+
+                        <button class="btn navbar-toggler-humburger-icon navbar-vertical-toggle" data-bs-toggle="tooltip" data-bs-placement="left" title="Alternar de navegação"><span class="navbar-toggle-icon"><span class="toggle-line"></span></span></button>
+
+                    </div><a class="navbar-brand" href="#">
+                        <div class="d-flex align-items-center py-3">
+                            <span class="font-sans-serif fw-light text-dark">EHosts</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse" id="navbarVerticalCollapse">
+                    <div class="navbar-vertical-content scrollbar">
+                        <ul class="navbar-nav flex-column mb-3" id="navbarVerticalNav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/Home/Dashboard" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-chart-pie"></span></span><span class="nav-link-text ps-1">Dashboard</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <div class="row navbar-vertical-label-wrapper mt-3 mb-2">
+                                    <div class="col-auto navbar-vertical-label">
+                                        Navegação
+                                    </div>
+                                    <div class="col ps-0">
+                                        <hr class="mb-0 navbar-vertical-divider" />
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/Bedroom/Index" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-bed"></span></span><span class="nav-link-text ps-1">Quarto</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/Event/Index" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-calendar-check"></span></span><span class="nav-link-text ps-1">Evento</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/Product/Index" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-shopping-cart"></span></span><span class="nav-link-text ps-1">Produto</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/TypeBedroom/Index" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-th-large"></span></span><span class="nav-link-text ps-1">Tipo de quarto</span>
+                                    </div>
+                                </a>
+                            </li>             
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/Perfil/Index" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-address-card"></span></span><span class="nav-link-text ps-1">Perfil</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/User/Index" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-user"></span></span><span class="nav-link-text ps-1">Usuários</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                    <a class="nav-link" href="~/Booking/Index" role="button" aria-expanded="false">
+                                        <div class="d-flex align-items-center">
+                                            <span class="nav-link-icon"><span class="fas fa-hotel"></span></span><span class="nav-link-text ps-1">Reservas</span>
+                                        </div>
+                                    </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/Home/Email" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-envelope"></span></span><span class="nav-link-text ps-1">Enviar E-mail</span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div class="content">
+                <nav class="navbar navbar-light navbar-glass navbar-top navbar-expand">
+
+                    <button class="btn navbar-toggler-humburger-icon navbar-toggler me-1 me-sm-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarVerticalCollapse" aria-controls="navbarVerticalCollapse" aria-expanded="false" aria-label="Toggle Navigation"><span class="navbar-toggle-icon"><span class="toggle-line"></span></span></button>
+                    <a class="navbar-brand me-1 me-sm-3" href="#">
+                        <div class="d-flex align-items-center">
+                            <span class="font-sans-serif fw-light text-dark">EHosts</span>
+                        </div>
+                    </a>
+                    <ul class="navbar-nav navbar-nav-icons ms-auto flex-row align-items-center">
+                        <li class="nav-item">
+                            <div class="theme-control-toggle fa-icon-wait px-2">
+                                <input class="form-check-input ms-0 theme-control-toggle-input" id="themeControlToggle" type="checkbox" data-theme-control="theme" value="dark" />
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link pe-0" id="navbarDropdownUser" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <p class="my-auto fw-light">Olá @User.Identity.Name.Split('|')[1]<i class="fas fa-user-cog ms-2"></i></p>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-end py-0" aria-labelledby="navbarDropdownUser">
+                                <div class="bg-white dark__bg-1000 rounded-2 py-2">
+                                    <div class="dropdown-divider"></div>
+                                    <a class="dropdown-item" href="@Url.Action("Logout", "Home")">Sair</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </nav>
+                @* Conteúdo *@
+                @RenderBody()
+                <footer class="footer">
+                    <div class="row g-0 justify-content-between fs--1 mt-4 mb-3">
+                        <div class="col-12 col-sm-auto text-center">
+                            <p class="mb-0 text-600">EasyHosts <span class="d-none d-sm-inline-block">| </span><br class="d-sm-none" /> 2022 &copy; </p>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </main>
+
+    @* JavaScripts *@
+    @Scripts.Render("~/Jquery/script")
+    @Scripts.Render("~/Popper/script")
+    @Scripts.Render("~/Bootstrap/script")
+    @Scripts.Render("~/Anchorjs/script")
+    @Scripts.Render("~/Is/script")
+    @Scripts.Render("~/Echarts/script")
+    @Scripts.Render("~/Fontawesome/script")
+    @Scripts.Render("~/Lodash/script")
+    @Scripts.Render("~/Polyfill/script")
+    @Scripts.Render("~/List.js/script")
+    @Scripts.Render("~/CountUp/script")
+    @Scripts.Render("~/Js/script")
+    <script src="https://cdn.tiny.cloud/1/no-apikey/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: 'textarea'
+        });
+    </script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    @if (TempData["MSG"] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                var titulo = "";
+                switch ("@TempData["MSG"].ToString().Split('|')[0]") {
+                case "success":
+                    titulo = "Sucesso";
+                break;
+                case "warning":
+                    titulo = "Atenção";
+                break;
+                case "error":
+                    titulo = "Erro";
+                break;
+                case "info":
+                    titulo = "Informação";
+                break;
+                }
+                swal(titulo, "@Html.Raw(TempData["MSG"].ToString().Split('|')[1])", "@TempData["MSG"].ToString().Split('|')[0]");
+            });
+        </script>
+    }
+    <script type="text/javascript"></script>
+</body>
+</html>

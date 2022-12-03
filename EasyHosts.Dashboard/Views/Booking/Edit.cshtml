@@ -1,0 +1,78 @@
+﻿@model EasyHosts.Dashboard.Models.Booking
+
+@{
+    ViewBag.Title = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card mb-3">
+    <div class="bg-holder d-none d-lg-block bg-card" style="background-image:url(../../Content/Images/icons/spot-illustrations/corner-1.png);">
+    </div>
+    <div class="card-body position-relative">
+        <div class="row">
+            <div class="col-lg-8">
+                <h3>Editar Reserva</h3>
+                <p class="mb-0">Altere as seguinte informações.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="card mb-3">
+    <div class="card-header">
+        <div class="row flex-between-end">
+            <div class="col-auto align-self-center">
+                <h5 class="mb-0">Formulário</h5>
+            </div>
+        </div>
+    </div>
+    <div class="card-body bg-light">
+        <div class="tab-content">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                @Html.HiddenFor(model => model.Id)
+                <div class="form">
+                    <div class="mb-3">
+                        @Html.LabelFor(model => model.CodeBooking, htmlAttributes: new { @class = "form-label" })
+                        @Html.EditorFor(model => model.CodeBooking, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.CodeBooking, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(model => model.UserId, "UserId", htmlAttributes: new { @class = "form-label" })
+                        @Html.DropDownList("UserId", null, htmlAttributes: new { @class = "form-control", @readonly = "readonly" })
+                        @Html.ValidationMessageFor(model => model.UserId, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(model => model.DateCheckin, htmlAttributes: new { @class = "form-label" })
+                        @Html.EditorFor(model => model.DateCheckin, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.DateCheckin, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(model => model.DateCheckout, htmlAttributes: new { @class = "form-label" })
+                        @Html.EditorFor(model => model.DateCheckout, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.DateCheckout, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(model => model.ValueBooking, htmlAttributes: new { @class = "form-label" })
+                        @Html.EditorFor(model => model.ValueBooking, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+                        @Html.ValidationMessageFor(model => model.ValueBooking, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(model => model.BedroomId, "BedroomId", htmlAttributes: new { @class = "form-label" })
+                        @Html.DropDownList("BedroomId", null, htmlAttributes: new { @class = "form-control", @readonly = "readonly" })
+                        @Html.ValidationMessageFor(model => model.BedroomId, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="mb-3">
+                        @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "form-label" })
+                        @Html.EnumDropDownListFor(model => model.Status, htmlAttributes: new { @class = "form-select" })
+                        @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
+                    </div>
+                    <div>
+                        <input type="submit" value="Salvar" class="btn btn-warning" />
+                        @Html.ActionLink("Voltar", "Index", "", new { @class = "btn btn-secondary" })
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

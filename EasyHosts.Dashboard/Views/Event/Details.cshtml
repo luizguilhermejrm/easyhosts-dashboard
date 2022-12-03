@@ -1,0 +1,104 @@
+﻿@model EasyHosts.Dashboard.Models.Event
+
+@{
+    ViewBag.Title = "Detalhes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card mb-3">
+    <div class="bg-holder d-none d-lg-block bg-card" style="background-image: url(../../Content/Images/icons/spot-illustrations/corner-1.png);">
+    </div>
+
+    <div class="card-body position-relative">
+        <div class="row">
+            <div class="col-lg-8">
+                <h3>Detalhes do Evento</h3>
+                <p class="mb-0">Visualização dos detalhes.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card mb-3">
+    <div class="card-header">
+        <div class="row flex-between-end">
+            <div class="col-auto align-self-center">
+                <h5 class="mb-0">Informações</h5>
+            </div>
+        </div>
+    </div>
+    <div class="card-body bg-light">
+        <div class="tab-content">
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.NameEvent)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.NameEvent)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Organizer)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Organizer)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.DateEvent)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.DateEvent)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.EventsPlace)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.EventsPlace)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Picture)
+                </dt>
+
+                <dd>
+                    <img class="card-img" style="max-width:70px;" src="@Url.Action("GetImage","Bedroom", new { id = item.Id })" alt="imagem do quarto" />
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.DescriptionEvent)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.DescriptionEvent)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Attractions)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Attractions)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.TypeEvent)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.TypeEvent)
+                </dd>
+
+            </dl>
+            <div>
+                @Html.ActionLink("Editar", "Edit", new { id = Model.Id }, new { @class = "btn btn-warning" })
+                @Html.ActionLink("Voltar", "Index", "", new { @class = "btn btn-secondary" })
+            </div>
+        </div>
+    </div>
+</div>

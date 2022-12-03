@@ -1,0 +1,665 @@
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.AssemblyReference.cache
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll.config
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.pdb
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe.config
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.rsp
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe.config
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.rsp
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.AppContext.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Console.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Http.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.ValueTuple.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe.config
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.rsp
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\WebGrease.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.pdb
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CopyComplete
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.pdb
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll.config
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.pdb
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe.config
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.rsp
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe.config
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.rsp
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.AppContext.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Console.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Http.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe.config
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.rsp
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\WebGrease.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.pdb
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.pdb
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CopyComplete
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.dll
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.pdb
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.dll
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.pdb
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.xml
+C:\Users\LGuil\Desktop\TCC\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.xml
+C:\Users\Aureo Bueno\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.AssemblyReference.cache
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll.config
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.pdb
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Web.Infrastructure.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\WebGrease.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.pdb
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.pdb
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Helpers.resources.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Mvc.resources.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Optimization.resources.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Razor.resources.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.resources.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.AssemblyReference.cache
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CoreCompileInputs.cache
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CopyComplete
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.pdb
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe.config
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.rsp
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe.config
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.rsp
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Managed.Core.targets
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.AppContext.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Collections.Immutable.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Console.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Globalization.Calendars.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Http.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Sockets.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Reflection.Metadata.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.ValueTuple.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XmlDocument.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe.config
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.rsp
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe
+D:\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.AssemblyReference.cache
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.pdb
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll.config
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.pdb
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe.config
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.rsp
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe.config
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.rsp
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.AppContext.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Console.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Http.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.ValueTuple.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe.config
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.rsp
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\WebGrease.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.pdb
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.pdb
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\LGuil\Desktop\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CopyComplete
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll.config
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EasyHosts.Dashboard.pdb
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.exe.config
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csc.rsp
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.exe.config
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\csi.rsp
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.AppContext.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Console.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Http.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.ValueTuple.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.exe.config
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\vbc.rsp
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\WebGrease.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.pdb
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ClosedXML.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\DocumentFormat.OpenXml.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Core.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.Relational.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\EntityFramework.SqlServer.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\ExcelNumberFormat.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Abstractions.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Caching.Memory.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Abstractions.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Configuration.Binder.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.DependencyInjection.Abstractions.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Logging.Abstractions.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.OptionsModel.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.Framework.Primitives.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\PagedList.Mvc.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Remotion.Linq.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Collections.Immutable.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Interactive.Async.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Helpers.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Mvc.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Optimization.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.Razor.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\System.Web.WebPages.Razor.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Newtonsoft.Json.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Antlr3.Runtime.pdb
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.AssemblyReference.cache
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.csproj.CopyComplete
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.dll
+C:\Users\LGuil\Desktop\Nova pasta\EasyHosts.Dashboard\EasyHosts.Dashboard\obj\Debug\EasyHosts.Dashboard.pdb

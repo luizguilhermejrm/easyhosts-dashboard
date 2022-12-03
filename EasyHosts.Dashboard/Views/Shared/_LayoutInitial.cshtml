@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Easy Hosts</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../Content/Images/favicons/favicon.ico">
+
+    @Scripts.Render("~/Config/script")
+    @Scripts.Render("~/Overlayscrollbars/script")
+    @Styles.Render("~/Content/Overlayscrollbars")
+    @Styles.Render("~/Content/Css")
+
+</head>
+<body>
+
+    @* Conteúdo *@
+    @RenderBody()
+
+    @* JavaScripts *@
+    @Scripts.Render("~/Jquery/script")
+    @Scripts.Render("~/Popper/script")
+    @Scripts.Render("~/Bootstrap/script")
+    @Scripts.Render("~/Anchorjs/script")
+    @Scripts.Render("~/Is/script")
+    @Scripts.Render("~/Echarts/script")
+    @Scripts.Render("~/Fontawesome/script")
+    @Scripts.Render("~/Lodash/script")
+    @Scripts.Render("~/Polyfill/script")
+    @Scripts.Render("~/List.js/script")
+    @Scripts.Render("~/Js/script")
+    <script src="https://cdn.tiny.cloud/1/no-apikey/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: 'textarea'
+        });
+    </script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    @if (TempData["MSG"] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                var titulo = "";
+                switch ("@TempData["MSG"].ToString().Split('|')[0]") {
+                case "success":
+                    titulo = "Sucesso";
+                break;
+                case "warning":
+                    titulo = "Atenção";
+                break;
+                case "error":
+                    titulo = "Erro";
+                break;
+                case "info":
+                    titulo = "Informação";
+                break;
+                }
+                swal(titulo, "@Html.Raw(TempData["MSG"].ToString().Split('|')[1])", "@TempData["MSG"].ToString().Split('|')[0]");
+            });
+        </script>
+    }
+
+    <script type="text/javascript"></script>
+</body>
+</html>
