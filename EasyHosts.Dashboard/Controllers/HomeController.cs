@@ -27,7 +27,7 @@ namespace EasyHosts.Dashboard.Controllers
             string passcrip = Functions.HashText(ac.Password, "SHA512");
             User user = db.User.Where(t => t.Email == ac.Email && t.Password == passcrip)
                 .Where(t => t.Status == 1)
-                .Where(t => t.PerfilId == 1)
+                .Where(t => t.PerfilId == 1 || t.PerfilId == 2)
                 .FirstOrDefault();
 
             if (user != null)

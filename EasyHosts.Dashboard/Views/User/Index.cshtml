@@ -64,7 +64,7 @@
 
                                 @foreach (var item in Model)
                                 {
-                                    if (item.PerfilId == 1 && item.PerfilId == 2)
+                                    if (item.PerfilId == 1 || item.PerfilId == 2)
                                     {
                                         <tr>
                                             <td>
@@ -116,15 +116,9 @@
                                 <th>
                                     @Html.DisplayNameFor(model => model.Email)
                                 </th>
-                                @*<th>
-                                        @Html.DisplayNameFor(model => model.Password)
-                                    </th>*@
                                 <th>
                                     @Html.DisplayNameFor(model => model.Cpf)
                                 </th>
-                                @*<th>
-                                    @Html.DisplayNameFor(model => model.PerfilId)
-                                </th>*@
                                 <th class="pe-5">Ações</th>
                             </tr>
 
@@ -139,15 +133,9 @@
                                         <td>
                                             @Html.DisplayFor(modelItem => item.Email)
                                         </td>
-                                        @*<td>
-                                                @Html.DisplayFor(modelItem => item.Password)
-                                            </td>*@
                                         <td>
                                             @Html.DisplayFor(modelItem => item.Cpf)
                                         </td>
-                                        @*<td>
-                                            @Html.DisplayFor(modelItem => item.PerfilId)
-                                        </td>*@
                                         <td>
                                             <a data-bs-toggle="tooltip" data-bs-placement="top" title="Detalhes" href="@Url.Action("Details", "User", new { id = item.Id })"><i class="ms-2 text-500 fas fa-info"></i></a>
                                             <a data-bs-toggle="tooltip" data-bs-placement="right" title="Deletar" href="@Url.Action("Delete", "User", new { id = item.Id })"><i class="ms-2 text-500 fas fa-trash-alt"></i></a>

@@ -7,9 +7,9 @@ namespace EasyHosts.Dashboard.Models.Enums
 {
     public enum BedroomStatus : int
     {
-        Disponivel = 0,
+        Disponível = 0,
         Ocupado = 1,
-        Manutencao = 2,
+        Manutenção = 2,
         Reservado = 3
     }
 }
