@@ -13,6 +13,7 @@ using EasyHosts.Dashboard.ViewModel;
 
 namespace EasyHosts.Dashboard.Controllers
 {
+    [Authorize]
     public class EventController : Controller
     {
         private Context db = new Context();

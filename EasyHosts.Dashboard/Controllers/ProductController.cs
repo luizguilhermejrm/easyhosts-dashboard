@@ -12,6 +12,7 @@ using EasyHosts.Dashboard.ViewModel;
 
 namespace EasyHosts.Dashboard.Controllers
 {
+    [Authorize]
     public class ProductController : Controller
     {
         private Context db = new Context();

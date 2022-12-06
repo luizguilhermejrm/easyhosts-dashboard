@@ -40,6 +40,14 @@ namespace EasyHosts.Dashboard.Controllers
                 TempData["MSG"] = "error|Email ou Senha inválidos!";
                 return View();
             }
+
+            string permissoes = user.Perfil.Description;
+
+            permissoes = permissoes.Substring(0, permissoes.Length - 1);
+            FormsAuthenticationTicket ticket = new FormsAuthenticationTicket(1, user.Id + "|" + user.Email, DateTime.Now, DateTime.Now.AddMinutes(30), false, permissoes);
+            string hash = FormsAuthentication.Encrypt(ticket);
+            HttpCookie cookie = new HttpCookie(FormsAuthentication.FormsCookieName, hash);
+            Response.Cookies.Add(cookie);
         }
 
         public ActionResult Register()

@@ -77,7 +77,7 @@
                                         <span class="nav-link-icon"><span class="fas fa-th-large"></span></span><span class="nav-link-text ps-1">Tipo de quarto</span>
                                     </div>
                                 </a>
-                            </li>             
+                            </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="~/Perfil/Index" role="button" aria-expanded="false">
                                     <div class="d-flex align-items-center">
@@ -93,11 +93,11 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                    <a class="nav-link" href="~/Booking/Index" role="button" aria-expanded="false">
-                                        <div class="d-flex align-items-center">
-                                            <span class="nav-link-icon"><span class="fas fa-hotel"></span></span><span class="nav-link-text ps-1">Reservas</span>
-                                        </div>
-                                    </a>
+                                <a class="nav-link" href="~/Booking/Index" role="button" aria-expanded="false">
+                                    <div class="d-flex align-items-center">
+                                        <span class="nav-link-icon"><span class="fas fa-hotel"></span></span><span class="nav-link-text ps-1">Reservas</span>
+                                    </div>
+                                </a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="~/Home/Email" role="button" aria-expanded="false">
@@ -126,15 +126,19 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link pe-0" id="navbarDropdownUser" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <p class="my-auto fw-light">Olá @User.Identity.Name.Split('|')[1]<i class="fas fa-user-cog ms-2"></i></p>
-                            </a>
-                            <div class="dropdown-menu dropdown-menu-end py-0" aria-labelledby="navbarDropdownUser">
-                                <div class="bg-white dark__bg-1000 rounded-2 py-2">
-                                    <div class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="@Url.Action("Logout", "Home")">Sair</a>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+
+                                <a class="nav-link pe-0" id="navbarDropdownUser" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <p class="my-auto fw-light">Olá @User.Identity.Name.Split('|')[1]<i class="fas fa-user-cog ms-2"></i></p>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-end py-0" aria-labelledby="navbarDropdownUser">
+                                    <div class="bg-white dark__bg-1000 rounded-2 py-2">
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="@Url.Action("Logout", "Home")">Sair</a>
+                                    </div>
                                 </div>
-                            </div>
+                            }
                         </li>
                     </ul>
                 </nav>
